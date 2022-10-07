@@ -1,0 +1,3 @@
+C:/Users/erykk/CLionProjects/OU_test_01/cmake-build-debug/CMakeFiles/OU_test_01.dir
+C:/Users/erykk/CLionProjects/OU_test_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erykk/CLionProjects/OU_test_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
